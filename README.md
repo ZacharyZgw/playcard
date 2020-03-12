@@ -56,16 +56,26 @@
 ###测试数据及单元测试集
 分别测试了5张牌的规则和最终的结果  
 测试数据  
-![alt 测试数据](test_data.png)
+![alt 测试数据](test_data.png)  
+
 测试一
+
 ![alt 测试一](test1.png)
+
 测试二
+
 ![alt 测试二](test2.png)
+
 测试三
+
 ![alt 测试三](test3.png)
+
 测试四
+
 ![alt 测试四](test4.png)
+
 测试结果报表
+
 ![alt 报表](report.png)
 
 
